@@ -39,4 +39,23 @@ Merasa pengeluaran gaya hidup sering bocor? Fitur *Smart Budgeting* bertindak se
 ### 📈 4. Rekomendasi Investasi Personal
 Uang Anda tidak seharusnya diam. Bagi pengguna yang telah mencapai indikator keuangan sehat (kategori *Good*), SplitWise akan membuka kunci fitur investasi. Sistem akan merekomendasikan instrumen investasi yang paling sesuai dengan profil risiko Anda agar aset Anda dapat terus bertumbuh.
 
+<h2 id="technical-features">⚙️ Fitur Teknis & Pengalaman Pengguna (UX)</h2>
+
+Selain keunggulan analitik, SplitWise dibangun dengan memperhatikan skalabilitas dan kenyamanan pengguna:
+
+### 🌍 1. Multi-Language Support
+Aplikasi ini mendukung pelokalan (*localization*) untuk menjangkau audiens yang lebih luas. Pengguna dapat dengan mudah beralih bahasa tanpa memuat ulang (*reload*) halaman.
+- 🇮🇩 Bahasa Indonesia
+- EN English
+- 🇨🇳 Mandarin (Chinese)
+
+### 🌓 2. Dark/Light Mode Toggle
+Didesain untuk kenyamanan mata pengguna dalam berbagai kondisi pencahayaan. SplitWise dilengkapi dengan fitur peralihan tema (*Dark Mode* / *Light Mode*) yang responsif dan otomatis menyimpan preferensi tampilan pengguna.
+
+### 🔐 3. Secure Authentication (Login/Register)
+Sistem autentikasi yang aman untuk memastikan privasi data finansial setiap pengguna tetap terjaga. Setiap pengguna memiliki dasbor dan riwayat analitiknya masing-masing.
+
+### 📱 4. Fully Responsive Design
+Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart* analitik tetap terlihat sempurna dan interaktif, baik saat diakses melalui *Desktop*, *Tablet*, maupun *Smartphone*.
+
 ---
