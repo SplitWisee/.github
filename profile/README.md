@@ -83,7 +83,7 @@ Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart*
 
 </div>
 <div align="center">  
-⭐ **Star this repository if SPLITWISE helps your budget!** ⭐
+⭐ **Follow this organization if SPLITWISE helps your budget!** ⭐
 
 [⬆ Back to Top](#splitwise)
 </div>
