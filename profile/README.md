@@ -61,7 +61,7 @@ Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart*
 ---
 
 ### 🌟 Team Members
-
+<div align="center">
 | Name | Student ID | Role | Connect |
 |------|------------|------|---------|
 | **Dzikri Raihan** | CDCC288D6Y1130 | Data Science | [LinkedIn](https://www.linkedin.com) |
@@ -70,3 +70,4 @@ Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart*
 | **Felicia** | CACC001D6X1722 | machine Learning | [LinkedIn](https://www.linkedin.com) |
 | **Novendy F** | CFCC904D6Y1696 | Fullstack Developer | [LinkedIn](https://www.linkedin.com) |
 | **Rahmatullah** | cfcc155d6y0768 | Fullsatck Developer | [LinkedIn](https://www.linkedin.com) |
+</div>
