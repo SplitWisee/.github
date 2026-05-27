@@ -5,13 +5,13 @@
   
   **The Financial Technology Revolution for the Younger Generation**
   
-  <!-- <p>
+  <p>
     <a href="#features">Features</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#usage">Usage</a> •
+    <a href="#technical-features">Technical</a> •
+    <a href="#team">Team</a> •
     <a href="#architecture">Architecture</a> •
     <a href="#contributing">Contributing</a>
-  </p> -->
+  </p>
   
 </div>
 
@@ -58,17 +58,27 @@ Sistem autentikasi yang aman untuk memastikan privasi data finansial setiap peng
 ### 📱 4. Fully Responsive Design
 Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart* analitik tetap terlihat sempurna dan interaktif, baik saat diakses melalui *Desktop*, *Tablet*, maupun *Smartphone*.
 
+
+
+## App Architecture
+
+<div align="center" id='app-architecture>
+  <img src="./architecture.png" alt="Splitwise Architecture" width="800">
+  
+  *Arsitektur sistem spende menunjukkan flow data dari frontend ke backend dengan integrasi AI/ML models*
+</div>
+
 ---
 
 ### 🌟 Team Members
-<div align="center">
+<div align="center" id='team'>
 
 | Name | Student ID | Role | Connect |
 |------|------------|------|---------|
 | **Dzikri Raihan** | CDCC288D6Y1130 | Data Science | [LinkedIn](https://www.linkedin.com) |
 | **Auliya A** | CDCC117D6X2664 | Data Science | [LinkedIn](https://www.linkedin.com) |
 | **Nisa Amelia** | CACC001D6X2192 | Machine Learning | [LinkedIn](https://www.linkedin.com) |
-| **Felicia** | CACC001D6X1722 | machine Learning | [LinkedIn](https://www.linkedin.com) |
+| **Felicia** | CACC001D6X1722 | Machine Learning | [LinkedIn](https://www.linkedin.com) |
 | **Novendy F** | CFCC904D6Y1696 | Fullstack Developer | [LinkedIn](https://www.linkedin.com) |
 | **Rahmatullah** | cfcc155d6y0768 | Fullsatck Developer | [LinkedIn](https://www.linkedin.com) |
 
