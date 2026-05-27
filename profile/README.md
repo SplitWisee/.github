@@ -82,5 +82,8 @@ Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart*
 | **Rahmatullah** | cfcc155d6y0768 | Fullsatck Developer | [LinkedIn](https://www.linkedin.com) |
 
 </div>
+<div align="center">  
+⭐ **Star this repository if SPLITWISE helps your budget!** ⭐
 
 [⬆ Back to Top](#splitwise)
+</div>
