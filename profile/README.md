@@ -28,7 +28,7 @@ Di era di mana jebakan *lifestyle inflation* dan pinjaman berisiko tinggi semaki
 <h2 id="features">✨ Fitur Unggulan</h2>
 
 ### 📊 1. Dasbor Keuangan Interaktif
-Pantau seluruh arus kas Anda dalam satu layar yang bersih dan modern. Visualisasi data yang dinamis memudahkan Anda melihat ke mana perginya uang Anda setiap bulan—mulai dari kebutuhan pokok, gaya hidup, hingga beban cicilan—semua disajikan dalam grafik yang mudah dipahami tanpa perlu menjadi ahli finansial.
+Pantau seluruh arus kas Anda dalam satu layar yang bersih dan modern. Visualisasi data yang dinamis memudahkan Anda melihat ke mana perginya uang Anda setiap bulan mulai dari kebutuhan pokok, gaya hidup, hingga beban cicilan semua disajikan dalam grafik yang mudah dipahami tanpa perlu menjadi ahli finansial.
 
 ### 🤖 2. Audit Kesehatan Finansial Berbasis AI
 Selamat tinggal tebak-tebakan! Cukup masukkan profil pendapatan, pengeluaran, dan tanggungan Anda, dan biarkan algoritma *Machine Learning* kami yang bekerja. Sistem akan menganalisis profil Anda dan memberikan skor kesehatan finansial yang akurat (Kategori: **Good, Average,** atau **Bad**) berdasarkan rasio tabungan dan beban utang.
