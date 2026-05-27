@@ -74,7 +74,7 @@ Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart*
 
 | Name | Student ID | Role | Connect |
 |------|------------|------|---------|
-| **Dzikri Raihan** | CDCC288D6Y1130 | Data Science | [LinkedIn](https://www.linkedin.com) |
+| **Dzikri Raihan** | CDCC288D6Y1130 | Data Science | [LinkedIn](https://www.linkedin.com/in/dzikriraihan/) |
 | **Auliya A** | CDCC117D6X2664 | Data Science | [LinkedIn](https://www.linkedin.com) |
 | **Nisa Amelia** | CACC001D6X2192 | Machine Learning | [LinkedIn](https://www.linkedin.com) |
 | **Felicia** | CACC001D6X1722 | Machine Learning | [LinkedIn](https://www.linkedin.com) |
