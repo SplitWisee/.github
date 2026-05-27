@@ -62,7 +62,7 @@ Antarmuka dibangun secara responsif sehingga tampilan *dashboard* maupun *chart*
 
 ## App Architecture
 
-<div align="center" id='app-architecture>
+<div align="center" id='app-architecture'>
   <img src="./architecture.png" alt="Splitwise Architecture" width="800">
   
   *Arsitektur sistem spende menunjukkan flow data dari frontend ke backend dengan integrasi AI/ML models*
